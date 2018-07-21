@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dynamitechetan.fogviewlibrary:FogViewLibrary-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FogViewLibrary-1.0.0.aar/de2f851da76f42496ab1dd62378414c1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FogViewLibrary-1.0.0.aar/de2f851da76f42496ab1dd62378414c1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dynamitechetan.fogviewlibrary/FogViewLibrary/1.0.0/afa75de4487b79454b837efb411b37c0adbbc3fc/FogViewLibrary-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
